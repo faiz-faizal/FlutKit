@@ -215,7 +215,7 @@ class _FirebaseLoginPageState extends State<FirebaseLoginPage> {
                                       }
                                     },
                                     child: Stack(
-                                      overflow: Overflow.visible,
+                                      clipBehavior: Clip.none,
                                       alignment: Alignment.center,
                                       children: <Widget>[
                                         Align(

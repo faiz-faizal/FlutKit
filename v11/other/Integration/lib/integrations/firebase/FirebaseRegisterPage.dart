@@ -194,7 +194,7 @@ class _FirebaseRegisterPageState extends State<FirebaseRegisterPage> {
                                       }
                                     },
                                     child: Stack(
-                                      overflow: Overflow.visible,
+                                      clipBehavior: Clip.none,
                                       alignment: Alignment.center,
                                       children: <Widget>[
                                         Align(

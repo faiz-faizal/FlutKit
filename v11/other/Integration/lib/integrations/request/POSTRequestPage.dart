@@ -89,7 +89,7 @@ class _POSTRequestPageState extends State<POSTRequestPage> {
                               }
                             },
                             child: Stack(
-                              overflow: Overflow.visible,
+                              clipBehavior: Clip.none,
                               alignment: Alignment.center,
                               children: <Widget>[
                                 Align(
