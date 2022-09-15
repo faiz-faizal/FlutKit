@@ -1,0 +1,8 @@
+https://babiato.co/resources/flutkit-flutter-ui-kit.15009/
+
+v12.0 (Aug 14, 2022)
+----------------------------------------------------------------------------------
+- Compatible with the latest <b>Flutter 3.0.5</b>
+- Added Shopping Manager
+- Included Admin Dashboard
+- Bug fixes
