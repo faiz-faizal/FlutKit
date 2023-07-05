@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_feather_icons/flutter_feather_icons.dart';
 import 'package:flutx/flutx.dart';
 
-import '../controllers/search_controller.dart';
+import '../controllers/search_controller.dart' as ctrl;
 import '../models/product.dart';
 import 'single_product_screen.dart';
 
@@ -19,13 +19,13 @@ class _SearchScreenState extends State<SearchScreen> {
   late ThemeData theme;
   late CustomTheme customTheme;
 
-  late SearchController searchController;
+  late ctrl.SearchController searchController;
 
   @override
   void initState() {
     super.initState();
     searchController =
-        FxControllerStore.putOrFind<SearchController>(SearchController());
+        FxControllerStore.putOrFind<ctrl.SearchController>(ctrl.SearchController());
     theme = AppTheme.theme;
     customTheme = AppTheme.customTheme;
   }
@@ -108,7 +108,7 @@ class _SearchScreenState extends State<SearchScreen> {
 
   @override
   Widget build(BuildContext context) {
-    return FxBuilder<SearchController>(
+    return FxBuilder<ctrl.SearchController>(
         controller: searchController,
         builder: (searchController) {
           return _buildBody();

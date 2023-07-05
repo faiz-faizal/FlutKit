@@ -3,7 +3,7 @@ import 'package:flutter_feather_icons/flutter_feather_icons.dart';
 import 'package:flutx/flutx.dart';
 import 'package:flutkit/theme/app_theme.dart';
 
-import '../controllers/search_controller.dart';
+import '../controllers/search_controller.dart' as ctrl;
 import '../models/product.dart';
 
 class SearchScreen extends StatefulWidget {
@@ -17,14 +17,14 @@ class _SearchScreenState extends State<SearchScreen>
     with TickerProviderStateMixin {
   late ThemeData theme;
 
-  late SearchController controller;
+  late ctrl.SearchController controller;
 
   @override
   void initState() {
     super.initState();
     theme = AppTheme.shoppingTheme;
 
-    controller = FxControllerStore.put(SearchController(this));
+    controller = FxControllerStore.put(ctrl.SearchController(this));
   }
 
   Widget _buildSingleProduct(Product product) {
@@ -128,7 +128,7 @@ class _SearchScreenState extends State<SearchScreen>
 
   @override
   Widget build(BuildContext context) {
-    return FxBuilder<SearchController>(
+    return FxBuilder<ctrl.SearchController>(
         controller: controller,
         builder: (controller) {
           return Theme(

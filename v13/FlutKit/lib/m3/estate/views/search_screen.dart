@@ -6,7 +6,7 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:flutkit/loading_effect.dart';
 import 'package:flutkit/theme/app_theme.dart';
 import '../../../theme/constant.dart';
-import '../controllers/search_controller.dart';
+import '../controllers/search_controller.dart' as ctrl;
 import '../models/house.dart';
 
 class SearchScreen extends StatefulWidget {
@@ -18,14 +18,14 @@ class SearchScreen extends StatefulWidget {
 
 class _SearchScreenState extends State<SearchScreen> {
   late ThemeData theme;
-  late SearchController controller;
+  late ctrl.SearchController controller;
 
   @override
   void initState() {
     super.initState();
 
     theme = AppTheme.estateTheme;
-    controller = FxControllerStore.putOrFind(SearchController());
+    controller = FxControllerStore.putOrFind(ctrl.SearchController());
     controller.addMarkers();
   }
 
@@ -40,7 +40,7 @@ class _SearchScreenState extends State<SearchScreen> {
 
   @override
   Widget build(BuildContext context) {
-    return FxBuilder<SearchController>(
+    return FxBuilder<ctrl.SearchController>(
         controller: controller,
         builder: (controller) {
           return Theme(
