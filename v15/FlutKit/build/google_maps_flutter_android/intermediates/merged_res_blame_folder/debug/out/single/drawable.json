@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\google_maps_flutter_android\\intermediates\\merged_res\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\a0b655f8caf03bb3dd7b31d77b33b241\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\google_maps_flutter_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\8fe2d9cb14b4c40f895e2b3e19d4b50f\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\google_maps_flutter_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\8fe2d9cb14b4c40f895e2b3e19d4b50f\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\google_maps_flutter_android\\intermediates\\merged_res\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\a0b655f8caf03bb3dd7b31d77b33b241\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\google_maps_flutter_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\8fe2d9cb14b4c40f895e2b3e19d4b50f\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\google_maps_flutter_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\8fe2d9cb14b4c40f895e2b3e19d4b50f\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\google_maps_flutter_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\8fe2d9cb14b4c40f895e2b3e19d4b50f\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\google_maps_flutter_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\8fe2d9cb14b4c40f895e2b3e19d4b50f\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\google_maps_flutter_android\\intermediates\\merged_res\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\a0b655f8caf03bb3dd7b31d77b33b241\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\google_maps_flutter_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\8fe2d9cb14b4c40f895e2b3e19d4b50f\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\google_maps_flutter_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\8fe2d9cb14b4c40f895e2b3e19d4b50f\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\google_maps_flutter_android\\intermediates\\merged_res\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\a0b655f8caf03bb3dd7b31d77b33b241\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\google_maps_flutter_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\8fe2d9cb14b4c40f895e2b3e19d4b50f\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\google_maps_flutter_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\8fe2d9cb14b4c40f895e2b3e19d4b50f\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\google_maps_flutter_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\8fe2d9cb14b4c40f895e2b3e19d4b50f\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\google_maps_flutter_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\8fe2d9cb14b4c40f895e2b3e19d4b50f\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\google_maps_flutter_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\8fe2d9cb14b4c40f895e2b3e19d4b50f\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\google_maps_flutter_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\8fe2d9cb14b4c40f895e2b3e19d4b50f\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    }
+]

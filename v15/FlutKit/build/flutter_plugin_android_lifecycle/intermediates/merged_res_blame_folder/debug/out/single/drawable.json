@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\a0b655f8caf03bb3dd7b31d77b33b241\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\a0b655f8caf03bb3dd7b31d77b33b241\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\a0b655f8caf03bb3dd7b31d77b33b241\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\a0b655f8caf03bb3dd7b31d77b33b241\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

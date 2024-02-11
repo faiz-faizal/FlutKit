@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\image_picker_android\\intermediates\\merged_res\\debug\\drawable-anydpi-v21\\ic_call_answer_low.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\f546f958dd2165a8cfbe3ea0c13c3137\\transformed\\core-1.10.1\\res\\drawable-anydpi-v21\\ic_call_answer_low.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\image_picker_android\\intermediates\\merged_res\\debug\\drawable-anydpi-v21\\ic_call_decline.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\f546f958dd2165a8cfbe3ea0c13c3137\\transformed\\core-1.10.1\\res\\drawable-anydpi-v21\\ic_call_decline.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\image_picker_android\\intermediates\\merged_res\\debug\\drawable-anydpi-v21\\ic_call_decline_low.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\f546f958dd2165a8cfbe3ea0c13c3137\\transformed\\core-1.10.1\\res\\drawable-anydpi-v21\\ic_call_decline_low.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\image_picker_android\\intermediates\\merged_res\\debug\\drawable-anydpi-v21\\ic_call_answer_video_low.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\f546f958dd2165a8cfbe3ea0c13c3137\\transformed\\core-1.10.1\\res\\drawable-anydpi-v21\\ic_call_answer_video_low.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\image_picker_android\\intermediates\\merged_res\\debug\\drawable-anydpi-v21\\ic_call_answer_video.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\f546f958dd2165a8cfbe3ea0c13c3137\\transformed\\core-1.10.1\\res\\drawable-anydpi-v21\\ic_call_answer_video.xml"
+    },
+    {
+        "merged": "C:\\Development\\Cr8tive\\FlutKit\\v15\\FlutKit\\build\\image_picker_android\\intermediates\\merged_res\\debug\\drawable-anydpi-v21\\ic_call_answer.xml",
+        "source": "C:\\Users\\Faiz\\.gradle\\caches\\transforms-3\\f546f958dd2165a8cfbe3ea0c13c3137\\transformed\\core-1.10.1\\res\\drawable-anydpi-v21\\ic_call_answer.xml"
+    }
+]
